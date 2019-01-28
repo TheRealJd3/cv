@@ -25,7 +25,7 @@ class App extends Component {
       ],
       projects: [
         {jobTitle: 'Confidential Project', company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'Present', jobDescription: 'Confidential',link:['Not yet done']},
-        {jobTitle: 'Jade RMS', company:'Heriot-Watt University & Leidos', startDate: 'October 2016', endDate: 'May 2017', jobDescription: 'Design a resource management system web application. Developed using Codeigniter (PHP framework) and MySQL database',link:['https://jade-rms.herokuapp.com']},
+        {jobTitle: 'Jade RMS', company:'Heriot-Watt University & Leidos', startDate: 'October 2016', endDate: 'May 2017', jobDescription: 'Design a resource management system web application. Developed using Codeigniter (PHP framework) and MySQL database',link:['https://jade-rms.herokuapp.com']}
       ],
       education: [
         {degree: 'BS Computer Systems (Honours)', institution: ' Heriot-Watt University ', startDate: '2014', endDate: '2018', description: ''},
