@@ -1,5 +1,5 @@
 {
-  "homepage": "http://TheRealJD3.github.io/cv",
+  "homepage": "http://TheRealJd3.github.io/cv",
   "name": "cv",
   "version": "0.1.0",
   "private": true,
@@ -28,16 +28,16 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheRealJD3/cv.git"
+    "url": "git+https://github.com/TheRealJd3/cv.git"
   },
   "keywords": [
     "Gresume",
     "react",
     "jsx"
   ],
-  "author": "Jason Shawn D' Souza (TheRealJD3)",
+  "author": "Jason Shawn D' Souza (TheRealJd3)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheRealJD3/cv/issues"
+    "url": "https://github.com/TheRealJd3/cv/issues"
   }
 }

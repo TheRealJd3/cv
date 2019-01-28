@@ -3,7 +3,6 @@ import About from './components/About';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Education from './components/Education';
-// import Certificate from './components/Certificate';
 import Skills from './components/Skills';
 
 class App extends Component {
@@ -16,13 +15,13 @@ class App extends Component {
       bio: 'Full-Stack Developer',
       address: 'Ras Al Khaimah, United Arab Emirates',
       social: [
-        {name: 'github', url: 'https://github.com/TheRealJD3'},
+        {name: 'github', url: 'https://github.com/TheRealJd3'},
         {name: 'linkedin', url: 'https://www.linkedin.com/in/jason-shawn-d-souza-731256109/'}
       ],
       experience: [
-        {jobTitle: 'Techincal Associate', startDate: 'November 2018', endDate: 'Present', jobDescription: 'Using Hyperledger Fabric to develop a Blockchain Application'},
-        {jobTitle: 'Full-Stack Developer Intern', startDate: 'July 2018', endDate: 'August 2018', jobDescription: 'Develop Android Applications according to specifications set by clients'},
-        {jobTitle: 'Lab Assistant', startDate: 'September 2017', endDate: 'December 2017', jobDescription: ' Manage Software/Devices and clear student doubts regarding their code. '},
+        {jobTitle: 'Techincal Associate',company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'Present', jobDescription: 'Using Hyperledger Fabric to develop a Blockchain Application'},
+        {jobTitle: 'Full-Stack Developer Intern',company:'Cloud Iris', startDate: 'July 2018', endDate: 'August 2018', jobDescription: 'Develop Android Applications according to specifications set by clients'},
+        {jobTitle: 'Lab Assistant',company:'Heriot-Watt University', startDate: 'September 2017', endDate: 'December 2017', jobDescription: ' Manage Software/Devices and clear student doubts regarding their code. '},
       ],
       projects: [
         {jobTitle: 'Confidential Project', company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'Present', jobDescription: 'Confidential',link:['Not yet done']},
@@ -64,7 +63,7 @@ class App extends Component {
                 <Experience experience={person.experience} />
                 <Education education={person.education} />
                 <Skills skills={person.skills} />
-                <Projects  experience={person.projects}/>
+                <Projects  projects={person.projects}/>
               </div>
           </div>
 
