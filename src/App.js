@@ -63,7 +63,7 @@ class App extends Component {
                 <Experience experience={person.experience} />
                 <Education education={person.education} />
                 <Skills skills={person.skills} />
-                <Projects  projects={person.projects}/>
+                <Projects  experience={person.projects}/>
               </div>
           </div>
 
