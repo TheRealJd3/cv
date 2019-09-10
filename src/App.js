@@ -24,7 +24,7 @@ class App extends Component {
         {jobTitle: 'Lab Assistant',company:'Heriot-Watt University', startDate: 'September 2017', endDate: 'December 2017', jobDescription: ' Manage Software/Devices and clear student doubts regarding their code. '},
       ],
       projects: [
-        {jobTitle: 'Confidential Project', company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'Present', jobDescription: 'Confidential',link:['Not yet done']},
+        {jobTitle: 'Confidential Project', company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'September 2019', jobDescription: 'Confidential project done using Hyperledger Blockchain framework',link:['Not yet done']},
         {jobTitle: 'Jade RMS', company:'Heriot-Watt University & Leidos', startDate: 'October 2016', endDate: 'May 2017', jobDescription: 'Design a resource management system web application. Developed using Codeigniter (PHP framework) and MySQL database',link:['https://jade-rms.herokuapp.com']}
       ],
       education: [
