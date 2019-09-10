@@ -29,6 +29,8 @@ class App extends Component {
       ],
       education: [
         {degree: 'BS Computer Systems (Honours)', institution: ' Heriot-Watt University ', startDate: '2014', endDate: '2018', description: ''},
+        {degree: 'Msc Artificial Intelligence', institution: ' Cork Institute of Technology ', startDate: '2019', endDate: '2020', description: ''},
+
       ],
       skills: [
         {name: 'JavaScript', percentage: '90%'},
@@ -42,6 +44,7 @@ class App extends Component {
         {name: 'Hyperledger Blockchain (Fabric)', percentage:"90%"},
         {name: 'Techincal Writing', percentage:"90%"},
         {name: 'Linux/Shell Scripting', percentage:"80%"},
+        {name: 'Python', percentage:"90%"},
         {name: 'Go', percentage:"85%"}
       ]
     };
