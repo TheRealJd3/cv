@@ -11,9 +11,9 @@ class App extends Component {
     const person = {
       avatar: 'https://en.gravatar.com/userimage/137572725/7c6c12875f70939ca22c2e8ae9f2f51f.jpg?size=200',
       name: `Jason Shawn D' Souza`,
-      profession: 'Technical Associate',
+      profession: 'Graduate Student at Cork Institute of Technology | Artificial Intelligence',
       bio: 'Full-Stack Developer',
-      address: 'Ras Al Khaimah, United Arab Emirates',
+      address: '2,The Orchard,Rossa Ave,Bishopstown,Cork, Ireland',
       social: [
         {name: 'github', url: 'https://github.com/TheRealJd3'},
         {name: 'linkedin', url: 'https://www.linkedin.com/in/jason-shawn-d-souza-731256109/'}
@@ -29,7 +29,7 @@ class App extends Component {
       ],
       education: [
         {degree: 'BS Computer Systems (Honours)', institution: ' Heriot-Watt University ', startDate: '2014', endDate: '2018', description: ''},
-        {degree: 'Msc Artificial Intelligence', institution: ' Cork Institute of Technology ', startDate: '2019', endDate: '2020', description: ''},
+        {degree: 'Msc Artificial Intelligence', institution: ' Cork Institute of Technology ', startDate: '2019', endDate: 'present(expected August 2020)', description: ''},
 
       ],
       skills: [
