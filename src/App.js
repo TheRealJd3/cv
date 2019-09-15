@@ -19,7 +19,7 @@ class App extends Component {
         {name: 'linkedin', url: 'https://www.linkedin.com/in/jason-shawn-d-souza-731256109/'}
       ],
       experience: [
-        {jobTitle: 'Techincal Associate',company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'Present', jobDescription: 'Using Hyperledger Fabric to develop a Blockchain Application'},
+        {jobTitle: 'Techincal Associate',company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'September 2019', jobDescription: 'Using Hyperledger Fabric to develop a Blockchain Application'},
         {jobTitle: 'Full-Stack Developer Intern',company:'Cloud Iris', startDate: 'July 2018', endDate: 'August 2018', jobDescription: 'Develop Android Applications according to specifications set by clients'},
         {jobTitle: 'Lab Assistant',company:'Heriot-Watt University', startDate: 'September 2017', endDate: 'December 2017', jobDescription: ' Manage Software/Devices and clear student doubts regarding their code. '},
       ],
