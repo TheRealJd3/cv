@@ -28,15 +28,15 @@ class App extends Component {
         {jobTitle: 'Jade RMS', company:'Heriot-Watt University & Leidos', startDate: 'October 2016', endDate: 'May 2017', jobDescription: 'Design a resource management system web application. Developed using Codeigniter (PHP framework) and MySQL database',link:['https://jade-rms.herokuapp.com']}
       ],
       education: [
-        {degree: 'BS Computer Systems (Honours)', institution: ' Heriot-Watt University ', startDate: '2014', endDate: '2018', description: 'Upper Second Class Honours (2:1)'},
-        {degree: 'Msc Artificial Intelligence', institution: ' Cork Institute of Technology ', startDate: '2019', endDate: '2020', description: 'First Class Honours'},
+        {degree: 'Bachelor of Science in Computer Systems', institution: ' Heriot-Watt University ', startDate: '2014', endDate: '2018', description: 'Upper Second Class Honours (2:1)'},
+        {degree: 'Master of Science in Artificial Intelligence', institution: ' Cork Institute of Technology ', startDate: '2019', endDate: '2020', description: 'First Class Honours'},
 
       ],
       skills: [
         {name: 'JavaScript', percentage: '90%'},
         {name: 'Nodejs', percentage: '90%'},
-        {name: 'Java', percentage: '80%'},
-        {name: 'Android Programming', percentage: '80%'},
+        {name: 'Java', percentage: '70%'},
+        {name: 'Android Programming', percentage: '70%'},
         {name: 'React', percentage: '40%'},
         {name: 'React-Native', percentage: '45%'},
         {name: 'PHP', percentage: '80%'},
