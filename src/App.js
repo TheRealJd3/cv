@@ -28,8 +28,8 @@ class App extends Component {
         {jobTitle: 'Jade RMS', company:'Heriot-Watt University & Leidos', startDate: 'October 2016', endDate: 'May 2017', jobDescription: 'Design a resource management system web application. Developed using Codeigniter (PHP framework) and MySQL database',link:['https://jade-rms.herokuapp.com']}
       ],
       education: [
-        {degree: 'BS Computer Systems (Honours)', institution: ' Heriot-Watt University ', startDate: '2014', endDate: '2018', description: ''},
-        {degree: 'Msc Artificial Intelligence', institution: ' Cork Institute of Technology ', startDate: '2019', endDate: 'present(expected August 2020)', description: ''},
+        {degree: 'BS Computer Systems (Honours)', institution: ' Heriot-Watt University ', startDate: '2014', endDate: '2018', description: 'Upper Second Class Honours (2:1)'},
+        {degree: 'Msc Artificial Intelligence', institution: ' Cork Institute of Technology ', startDate: '2019', endDate: '2020', description: 'First Class Honours'},
 
       ],
       skills: [
@@ -45,7 +45,10 @@ class App extends Component {
         {name: 'Techincal Writing', percentage:"90%"},
         {name: 'Linux/Shell Scripting', percentage:"80%"},
         {name: 'Python', percentage:"90%"},
-        {name: 'Go', percentage:"85%"}
+        {name: 'Go', percentage:"85%"},
+        {name: 'Scikit-Learn', percentage:"85%"},
+        {name: 'TensorFlow', percentage:"90%"},
+        {name: 'OpenCV', percentage:"70%"}
       ]
     };
 
