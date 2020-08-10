@@ -24,7 +24,7 @@ class App extends Component {
         {jobTitle: 'Lab Assistant',company:'Heriot-Watt University', startDate: 'September 2017', endDate: 'December 2017', jobDescription: ' Manage Software/Devices and clear student doubts regarding their code. '},
       ],
       projects: [
-        {jobTitle: 'Categorical Classification of Waste using CNNs and ML algorithms', company:'Masters Thesis - Cork Institute of Technology', startDate: 'October 2019', endDate: 'May 2020', jobDescription: 'Given a household waste item, classify it as organic or recyclable using Tensorflow and Machine Learning algorithms like SVM',link:['https://jade-https://github.com/TheRealJd3/CNN-ML-Waste-Classification']},
+        {jobTitle: 'Categorical Classification of Waste using CNNs and ML algorithms', company:'Masters Thesis - Cork Institute of Technology', startDate: 'October 2019', endDate: 'May 2020', jobDescription: 'Given a household waste item, classify it as organic or recyclable using Tensorflow and Machine Learning algorithms like SVM',link:['https://github.com/TheRealJd3/CNN-ML-Waste-Classification']},
         {jobTitle: 'Confidential Project', company:'Encore Theme Technologies', startDate: 'November 2018', endDate: 'September 2019', jobDescription: 'Confidential project done using Hyperledger Blockchain framework',link:['Not Available for Public']},
         {jobTitle: 'Jade RMS', company:'Heriot-Watt University & Leidos', startDate: 'October 2016', endDate: 'May 2017', jobDescription: 'Design a resource management system web application. Developed using Codeigniter (PHP framework) and MySQL database',link:['https://jade-rms.herokuapp.com']}
       ],
