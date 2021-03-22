@@ -11,9 +11,8 @@ class App extends Component {
     const person = {
       avatar: 'https://en.gravatar.com/userimage/137572725/7c6c12875f70939ca22c2e8ae9f2f51f.jpg?size=200',
       name: `Jason Shawn D' Souza`,
-      profession: 'Graduate Student at Cork Institute of Technology | Artificial Intelligence',
-      bio: 'Full-Stack Developer',
-      address: '2,The Orchard,Rossa Ave,Bishopstown,Cork, Ireland',
+      profession: 'Software Engineer at Zendesk',
+      address: 'Clearwater Court North, Dublin, Ireland',
       social: [
         {name: 'github', url: 'https://github.com/TheRealJd3'},
         {name: 'linkedin', url: 'https://www.linkedin.com/in/jason-shawn-d-souza-731256109/'}
