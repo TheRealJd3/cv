@@ -23,7 +23,7 @@ const About = ({avatar, name, profession, bio, address, social}) => {
   );
 };
 
-About.PropTypes = {
+About.propTypes = {
   avatar: PropTypes.string,
   name: PropTypes.string,
   profession: PropTypes.string,
