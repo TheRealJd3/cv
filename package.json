@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "CI=true react-scripts test --passWithNoTests",
     "eject": "react-scripts eject",
     "stylus": "stylus -u nib -c -w -o public/css/style.css src/index.styl",
     "predeploy": "npm run build",
