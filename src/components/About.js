@@ -23,13 +23,13 @@ const About = ({avatar, name, profession, bio, address, social}) => {
   );
 };
 
-About.propTypes = {
-  avatar: propTypes.string,
-  name: propTypes.string,
-  profession: propTypes.string,
-  bio: propTypes.string,
-  address: propTypes.string,
-  social: propTypes.node
+About.PropTypes = {
+  avatar: PropTypes.string,
+  name: PropTypes.string,
+  profession: PropTypes.string,
+  bio: PropTypes.string,
+  address: PropTypes.string,
+  social: PropTypes.node
 };
 
 export default About;
