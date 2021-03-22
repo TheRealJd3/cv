@@ -15,7 +15,7 @@ class App extends Component {
       address: 'Clearwater Court North, Dublin, Ireland',
       social: [
         {name: 'github', url: 'https://github.com/TheRealJd3'},
-        {name: 'linkedin', url: 'https://www.linkedin.com/in/jason-shawn-d-souza-731256109/'}
+        {name: 'linkedin', url: 'https://www.linkedin.com/in/jasonshawndsouza/'}
       ],
       experience: [
         {jobTitle: 'Software Engineer Intern',company:'Zendesk', startDate: 'February 2021', endDate: 'Present', jobDescription: 'Part of the Talk team'},
